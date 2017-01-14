@@ -1,4 +1,4 @@
 # hello-world
 First github repository
 
-Issues pull requests projects Wiki Pulse Graphs and Settings
+These are new Giraffs we just bought from Africa
